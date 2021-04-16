@@ -34,7 +34,7 @@ python-resize-image = "==1.1.18"
 django-markdownx = "*"
 
 [dev-packages]
-django-debug-toolbar = "==1.9.1"
+django-debug-toolbar = "==1.11.1"
 pycodestyle = "==2.4.0"
 pylint = "==2.1.1"
 coverage = "==4.4.2"
